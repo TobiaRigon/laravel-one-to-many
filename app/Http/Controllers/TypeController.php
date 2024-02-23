@@ -12,6 +12,6 @@ class TypeController extends Controller
 
         $types = Type :: all();
 
-        return view ('pages.index' , compact('types'));
+        return view ('pages.type.index' , compact('types'));
     }
 }
