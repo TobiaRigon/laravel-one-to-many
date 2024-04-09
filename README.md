@@ -1,7 +1,7 @@
 # laravel-one-to-many
 
 ## Description
-This repository contains an exercise project focused on building a Laravel application without authentication. It follows the technique 2 for creating projects: Progetto con SASS + Bootstrap.
+This repository contains an exercise project focused on building a Laravel application without authentication. 
 
 ## Contents
 - Laravel project setup (without authentication)
